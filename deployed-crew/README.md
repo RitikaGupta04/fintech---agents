@@ -349,12 +349,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google** for Gemini API access
 - **AssemblyAI** for voice transcription services
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/global-finance-assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/global-finance-assistant/discussions)
-- **Email**: sannidhay2004@gmail.com
-
 ---
 
 <div align="center">
@@ -364,3 +358,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [🚀 Try Live Demo](https://finance-research-crew.streamlit.app/) | [📖 Documentation](./docs/) | [💬 Community](https://github.com/yourusername/global-finance-assistant/discussions)
 
 </div>
+
